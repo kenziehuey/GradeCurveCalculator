@@ -1,5 +1,3 @@
-# GradeCurveCalculator
-
 
 # Grade Curve Calculator
 
